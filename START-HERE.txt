@@ -1,0 +1,23 @@
+GRAVISOL GITHUB PACKAGE
+
+Upload the contents of this folder to the new GitHub repository.
+
+Included:
+- current prototype report/presentation/poster
+- selected Phase 1 and Phase 2 history
+- selected unique project photos and graphs
+- compressed demo video
+- reconstructed Arduino monitoring reference sketch
+- README and .gitignore
+
+The original Arduino .ino source was not present in the supplied archive.
+The included sketch is clearly labeled as reconstructed/reference code.
+
+Excluded:
+- unrelated templates/evaluation forms
+- signatures
+- mentor portrait
+- QR image
+- duplicate photos/graphs
+- unrelated previous-semester material
+- original 183 MB MOV (replaced by compressed MP4)
